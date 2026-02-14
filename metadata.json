@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Entertainment Lab",
+  "description": "A high-end personal hub for organizing and experiencing your favorite videos and web games, featuring AI-powered content enrichment.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
